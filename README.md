@@ -19,7 +19,7 @@ The app provides four pre-defined fragments to use when a list item in the navig
 * FuturamaFragment
 
 
-![Imgur](http://i.imgur.com/joPKoTk.gif)
+![Imgur](https://imgur.com/a/mJ4JU.gif)
 
 
 1. Implemented material design style navigation drawer.
