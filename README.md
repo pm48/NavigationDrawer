@@ -10,7 +10,10 @@ How to add drawer item icon?
 How to change background color of drawable item?
 
 
-<img src="https://imgur.com/a/mJ4JU.gif" height="500"/>
+Here's a walkthrough of implemented user stories:
+<img src='https://imgur.com/a/mJ4JU.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 The app provides four pre-defined fragments to use when a list item in the navigation drawer is clicked.
 * SouthParkFragment
@@ -18,8 +21,6 @@ The app provides four pre-defined fragments to use when a list item in the navig
 * SimpsonsFragment
 * FuturamaFragment
 
-
-![Imgur](https://imgur.com/a/mJ4JU.gif)
 
 
 1. Implemented material design style navigation drawer.
